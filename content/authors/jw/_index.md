@@ -18,8 +18,8 @@ organizations:
 
 interests:
 - Causal inference
-- Machine learning
 - Life course and aging
+- Machine learning
 - Population health
 - Risk and resilience factors for dementia
 
