@@ -45,13 +45,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:jordanmnw[at]gmail.com".
+  link: mailto:jordanmnw@gmail.com
 - icon: github
   icon_pack: fab
   link: https://github.com/jordanweiss
 - icon: google-scholar
   icon_pack: ai
-  link: hhttps://scholar.google.com/citations?user=AwUIKHcAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=AwUIKHcAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
