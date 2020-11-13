@@ -2,7 +2,7 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
-
+googleAnalytics = "G-3V4F3FS0VH"
 [[main]]
   name = "About"
   url = "#about"
