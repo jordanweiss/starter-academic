@@ -21,7 +21,7 @@ interests:
 - Life course and aging
 - Machine learning
 - Population health
-- Risk and resilience factors for dementia
+- Risk and resilience factors for cognitive and mental health
 
 education:
   courses:
@@ -32,6 +32,9 @@ education:
     institution: The Wharton School, University of Pennsylvania
     year: 2019
   - course: MA, Demography
+    institution: University of Pennsylvania
+    year: 2018
+  - course: Certificate, Public Health and Cognitive Aging
     institution: University of Pennsylvania
     year: 2018
   - course: BSc, Economics and Mathematics
