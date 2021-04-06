@@ -31,6 +31,9 @@ education:
   - course: MA, Statistics
     institution: The Wharton School, University of Pennsylvania
     year: 2019
+  - course: Certificate, Public Health and Cognitive Aging
+    institution: Perelman School of Medicine, University of Pennsylvania
+    year: 2019
   - course: MA, Demography
     institution: University of Pennsylvania
     year: 2018
