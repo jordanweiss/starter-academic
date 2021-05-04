@@ -1,8 +1,7 @@
 ---
 # Display name
 title: Jordan Weiss
-#googleAnalytics = "G-3V4F3FS0VH"
-
+googleAnalytics = "G-3V4F3FS0VH"
 # Is this the primary user of the site?
 superuser: true
 
@@ -15,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-# bio: 
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Causal inference
@@ -31,9 +30,6 @@ education:
     year: 2020
   - course: MA, Statistics
     institution: The Wharton School, University of Pennsylvania
-    year: 2019
-  - course: Certificate, Public Health and Cognitive Aging
-    institution: Perelman School of Medicine, University of Pennsylvania
     year: 2019
   - course: MA, Demography
     institution: University of Pennsylvania
