@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jordan Weiss
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Scholar <br> Data Science Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of California, Berkeley
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
