@@ -1,10 +1,9 @@
 ---
 # Display name
 title: Jordan Weiss
-googleAnalytics = "G-3V4F3FS0VH"
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Professor of Artificial Intelligence
