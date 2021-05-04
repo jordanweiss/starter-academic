@@ -1,7 +1,8 @@
 ---
 # Display name
 title: Jordan Weiss
-googleAnalytics = "G-3V4F3FS0VH"
+#googleAnalytics = "G-3V4F3FS0VH"
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -14,7 +15,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: 
 
 interests:
 - Causal inference
