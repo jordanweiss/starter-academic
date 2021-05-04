@@ -36,7 +36,7 @@ education:
     institution: University of Pennsylvania
     year: 2018
   - course: Certificate, Public Health and Cognitive Aging
-    institution: University of Pennsylvania
+    institution: Perelman School of Medicine, University of Pennsylvania
     year: 2018
   - course: BSc, Economics and Mathematics
     institution: University of Southern California
