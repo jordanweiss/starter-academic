@@ -1,9 +1,10 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jordan Weiss
+googleAnalytics: "G-3V4F3FS0VH"
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Professor of Artificial Intelligence
