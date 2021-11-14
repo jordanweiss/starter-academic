@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Jordan Weiss
-#googleAnalytics: "G-3V4F3FS0VH"
+title: Nelson Bighetti
 
 # Is this the primary user of the site?
 superuser: false
