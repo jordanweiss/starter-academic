@@ -11,28 +11,33 @@ role: Postdoctoral Scholar <br> Data Science Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of California, Berkeley
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Causal inference
+- Life course and aging
+- Machine learning
+- Population health
+- Risk and resilience factors for cognitive and mental health
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD, Demography and Sociology
+    institution: University of Pennsylvania
+    year: 2020
+  - course: MA, Statistics
+    institution: The Wharton School, University of Pennsylvania
+    year: 2019
+  - course: MA, Demography
+    institution: University of Pennsylvania
+    year: 2018
+  - course: BSc, Economics and Mathematics
+    institution: University of Southern California
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +75,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jordan Weiss is a demographer who studies population health and inequality. A central theme of his work concerns the integration of theories across multiple disciplines with advances in statistical and computational science to inform research design and translate findings into actionable, policy-relevant information. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jordan earned his PhD in Demography and Sociology from the University of Pennsylvania where he also earned an MA in Statistics. He is currently a Postdoctoral Scholar in the Department of Demography and Data Science Fellow at the University of California, Berkeley.
