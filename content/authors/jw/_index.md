@@ -7,7 +7,7 @@ googleAnalytics: "G-3V4F3FS0VH"
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Scholar <br> Data Science Fellow
 
 # Organizations/Affiliations
 organizations:
