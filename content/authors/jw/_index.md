@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:jordanmnw@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
@@ -75,6 +75,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jordan Weiss is a demographer who studies population health and inequality. A central theme of his work concerns the integration of theories across multiple disciplines with advances in statistical and computational science to inform research design and translate findings into actionable, policy-relevant information. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jordan earned his PhD in Demography and Sociology from the University of Pennsylvania where he also earned an MA in Statistics. He is currently a Research Scientist at the University of California, Berkeley.
