@@ -49,7 +49,7 @@ social:
   link: mailto:jordanmnw@gmail.com
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=AwUIKHcAAAAJ&hl=en&oi=ao
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jordanweiss310/
