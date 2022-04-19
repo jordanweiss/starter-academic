@@ -7,32 +7,37 @@ title: Jordan Weiss
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of California, Berkeley
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Causal inference
+- Life course and aging
+- Machine learning
+- Population health
+- Risk and resilience factors for cognitive and mental health
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD, Demography and Sociology
+    institution: University of Pennsylvania
+    year: 2020
+  - course: MA, Statistics
+    institution: The Wharton School, University of Pennsylvania
+    year: 2019
+  - course: MA, Demography
+    institution: University of Pennsylvania
+    year: 2018
+  - course: BSc, Economics and Mathematics
+    institution: University of Southern California
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -55,7 +60,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+#   link: files/jordanweiss_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
