@@ -7,7 +7,7 @@ title: Jordan Weiss
 superuser: true
 
 # Role/position
-role: Postdoctoral Scholar <br> Data Science Fellow
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
