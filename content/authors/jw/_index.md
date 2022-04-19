@@ -7,7 +7,7 @@ title: Jordan Weiss
 superuser: true
 
 # Role/position
-role: Research Scientist
+role: Postdoctoral Scholar <br> Data Science Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -77,4 +77,4 @@ user_groups:
 
 Jordan Weiss is a demographer who studies population health and inequality. A central theme of his work concerns the integration of theories across multiple disciplines with advances in statistical and computational science to inform research design and translate findings into actionable, policy-relevant information. 
 
-Jordan earned his PhD in Demography and Sociology from the University of Pennsylvania where he also earned an MA in Statistics. He is currently a Research Scientist at the University of California, Berkeley.
+Jordan earned his PhD in Demography and Sociology from the University of Pennsylvania where he also earned an MA in Statistics. He is currently a Postdoctoral Scholar in the Department of Demography and Data Science Fellow at the University of California, Berkeley.
