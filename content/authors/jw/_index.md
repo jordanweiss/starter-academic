@@ -1,20 +1,21 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jordan Weiss
+#googleAnalytics: "G-3V4F3FS0VH"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of California, Berkeley
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
 - Artificial Intelligence
