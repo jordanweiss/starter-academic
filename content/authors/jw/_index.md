@@ -18,21 +18,6 @@ organizations:
 bio: 
 
 
-education:
-  courses:
-  - course: PhD, Demography and Sociology
-    institution: University of Pennsylvania
-    year: 2020
-  - course: MA, Statistics
-    institution: The Wharton School, University of Pennsylvania
-    year: 2019
-  - course: MA, Demography
-    institution: University of Pennsylvania
-    year: 2018
-  - course: BSc, Economics and Mathematics
-    institution: University of Southern California
-    year: 2012
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
